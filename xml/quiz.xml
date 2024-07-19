@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+
+
+<quiz versao="1.0">
+    <disciplina>Matemática</disciplina>
+    <professor>
+        <nome>Prof. João Silva</nome>
+        <matrícula>12345</matrícula>
+    </professor>
+    <turma>A</turma>
+    <data>2024-07-19</data>
+    <questões>
+        <questão>
+            <enunciado>Qual é a fórmula da área de um triângulo?</enunciado>
+            <pontuação>1 ponto</pontuação>
+            <alternativas>
+                <alternativa correta="sim">A) Base x Altura</alternativa>
+                <alternativa correta="nao">B) Lado x Lado</alternativa>
+                <alternativa correta="nao">C) Diagonal x Largura</alternativa>
+                <alternativa correta="nao">D) Raio x Raio</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual é o resultado de 2 + 2?</enunciado>
+            <pontuação>1 ponto</pontuação>
+            <alternativas>
+                <alternativa correta="sim">A) 4</alternativa>
+                <alternativa correta="nao">B) 3</alternativa>
+                <alternativa correta="nao">C) 5</alternativa>
+                <alternativa correta="nao">D) 6</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Quanto é a raiz quadrada de 16?</enunciado>
+            <pontuação>1 ponto</pontuação>
+            <alternativas>
+                <alternativa correta="sim">A) 4</alternativa>
+                <alternativa correta="nao">B) 5</alternativa>
+                <alternativa correta="nao">C) 6</alternativa>
+                <alternativa correta="nao">D) 7</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Quem é o autor da obra 'Dom Quixote'?</enunciado>
+            <pontuação>1 ponto</pontuação>
+            <alternativas>
+                <alternativa correta="sim">A) Miguel de Cervantes</alternativa>
+                <alternativa correta="nao">B) William Shakespeare</alternativa>
+                <alternativa correta="nao">C) Victor Hugo</alternativa>
+                <alternativa correta="nao">D) Johann Wolfgang von Goethe</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual é o maior planeta do Sistema Solar?</enunciado>
+            <pontuação>1 ponto</pontuação>
+            <alternativas>
+                <alternativa correta="sim">A) Júpiter</alternativa>
+                <alternativa correta="nao">B) Marte</alternativa>
+                <alternativa correta="nao">C) Terra</alternativa>
+                <alternativa correta="nao">D) Vênus</alternativa>
+            </alternativas>
+        </questão>
+    </questões>
+</quiz>
