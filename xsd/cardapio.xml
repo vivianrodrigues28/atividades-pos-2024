@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    <prato id="P01">
+        
+            <nome>Pudim</nome>
+            <descricao>Pudim Gostoso</descricao>
+            <ingredientes>Açucar,5 ovos, leite condesado</ingredientes>
+            <preco>50,00</preco>
+            <calorias> 9kcal </calorias>
+            <tempoPreparo> Tempo de Preparo é 30 min</tempoPreparo>
+    </prato>
+    <prato id="P02">
+        
+        <nome>Cuscuz</nome>
+        <descricao>Cuscuz Gostoso</descricao>
+        <ingredientes>Fuba, Sal, agua</ingredientes>
+        <preco>8,00</preco>
+        <calorias> 10kcal </calorias>
+        <tempoPreparo> Tempo de Preparo é 15 min</tempoPreparo>
+</prato>
+
+<prato id="P03">
+        
+    <nome>Arroz Refogado</nome>
+    <descricao>Arroz Gostoso</descricao>
+    <ingredientes>Arroz, agua, verduras, sal</ingredientes>
+    <preco>10,00</preco>
+    <calorias> 2100cal </calorias>
+    <tempoPreparo> Tempo de Preparo é 20 min</tempoPreparo>
+</prato>
+<prato id="P04">
+        
+    <nome>Macarrao</nome>
+    <descricao>Macarrao Gostoso</descricao>
+    <ingredientes>Macarrao, agua, molho de tomate, oleo, sal</ingredientes>
+    <preco>12,00</preco>
+    <calorias> 900cal </calorias>
+    <tempoPreparo> Tempo de Preparo é 20 min</tempoPreparo>
+</prato>
+<prato id="P05">
+        
+    <nome>Pure de Batata</nome>
+    <descricao>Pure de batata Gostoso</descricao>
+    <ingredientes>Batata,leite, manteira, sal</ingredientes>
+    <preco>40,00</preco>
+    <calorias> 200cal </calorias>
+    <tempoPreparo> Tempo de Preparo é 10 min</tempoPreparo>
+</prato>
+</cardapio>

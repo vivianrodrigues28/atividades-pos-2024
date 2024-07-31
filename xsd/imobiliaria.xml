@@ -1,0 +1,121 @@
+<!DOCTYPE imobiliaria [
+<!ELEMENT imobiliaria (imovel+)>
+<!ELEMENT imovel (descricao, proprietario, endereco, caracteristicas, valor)>
+<!ELEMENT descricao (#PCDATA)>
+<!ELEMENT proprietario (nome, (email | telefone)+)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telefone (#PCDATA)>
+<!ELEMENT endereco (rua, bairro, cidade, numero?)>
+<!ELEMENT rua (#PCDATA)>
+<!ELEMENT bairro (#PCDATA)>
+<!ELEMENT cidade (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT caracteristicas (tamanho, numQuartos, numBanheiros)>
+<!ELEMENT tamanho (#PCDATA)>
+<!ELEMENT numQuartos (#PCDATA)>
+<!ELEMENT numBanheiros (#PCDATA)>
+<!ELEMENT valor (#PCDATA)>
+]>
+
+<imobiliaria>
+    <imovel>
+        <descricao>Casa espaçosa com jardim</descricao>
+        <proprietario>
+            <nome>Fulano de Tal</nome>
+            <email>fulano@example.com</email>
+            <telefone>123456789</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua das Flores</rua>
+            <bairro>Jardim Botânico</bairro>
+            <cidade>Curitiba</cidade>
+            <numero>100</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>300 m²</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 500.000,00</valor>
+    </imovel>
+    
+    <imovel>
+        <descricao>Apartamento moderno no centro</descricao>
+        <proprietario>
+            <nome>Ciclano Silva</nome>
+            <telefone>987654321</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua Principal</rua>
+            <bairro>Centro</bairro>
+            <cidade>São Paulo</cidade>
+            <numero>502</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>120 m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 350.000,00</valor>
+    </imovel>
+    
+    <imovel>
+        <descricao>Sobrado com piscina</descricao>
+        <proprietario>
+            <nome>Beltrano Souza</nome>
+            <telefone>987654321</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Av. Central</rua>
+            <bairro>Centro</bairro>
+            <cidade>Porto Alegre</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>250 m²</tamanho>
+            <numQuartos>5</numQuartos>
+            <numBanheiros>4</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 700.000,00</valor>
+    </imovel>
+    
+    <imovel>
+        <descricao>Kitnet próximo à universidade</descricao>
+        <proprietario>
+            <nome>Maria Oliveira</nome>
+            <email>maria@example.com</email>
+            <telefone>876543210</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua da Universidade</rua>
+            <bairro>Universitário</bairro>
+            <cidade>Recife</cidade>
+            <numero>30</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>40 m²</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 120.000,00</valor>
+    </imovel>
+    
+    <imovel>
+        <descricao>Casa térrea com amplo quintal</descricao>
+        <proprietario>
+            <nome>José da Silva</nome>
+            <telefone>765432109</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua dos Fundos</rua>
+            <bairro>Vila Nova</bairro>
+            <cidade>Salvador</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>200 m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 300.000,00</valor>
+    </imovel>
+</imobiliaria>
