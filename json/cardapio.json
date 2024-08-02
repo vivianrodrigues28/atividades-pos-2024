@@ -1,0 +1,52 @@
+{
+    "cardapio": {
+      "pratos": [
+        {
+          "id": "P01",
+          "nome": "Pudim",
+          "descricao": "Pudim Gostoso",
+          "ingredientes": "Açucar, 5 ovos, leite condesado",
+          "preco": "50,00",
+          "calorias": "9kcal",
+          "tempoPreparo": "Tempo de Preparo é 30 min"
+        },
+        {
+          "id": "P02",
+          "nome": "Cuscuz",
+          "descricao": "Cuscuz Gostoso",
+          "ingredientes": "Fuba, Sal, agua",
+          "preco": "8,00",
+          "calorias": "10kcal",
+          "tempoPreparo": "Tempo de Preparo é 15 min"
+        },
+        {
+          "id": "P03",
+          "nome": "Arroz Refogado",
+          "descricao": "Arroz Gostoso",
+          "ingredientes": "Arroz, agua, verduras, sal",
+          "preco": "10,00",
+          "calorias": "2100cal",
+          "tempoPreparo": "Tempo de Preparo é 20 min"
+        },
+        {
+          "id": "P04",
+          "nome": "Macarrao",
+          "descricao": "Macarrao Gostoso",
+          "ingredientes": "Macarrao, agua, molho de tomate, oleo, sal",
+          "preco": "12,00",
+          "calorias": "900cal",
+          "tempoPreparo": "Tempo de Preparo é 20 min"
+        },
+        {
+          "id": "P05",
+          "nome": "Pure de Batata",
+          "descricao": "Pure de batata Gostoso",
+          "ingredientes": "Batata, leite, manteira, sal",
+          "preco": "40,00",
+          "calorias": "200cal",
+          "tempoPreparo": "Tempo de Preparo é 10 min"
+        }
+      ]
+    }
+  }
+  

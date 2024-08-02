@@ -1,0 +1,125 @@
+{
+    "quiz": {
+      "versao": "1.0",
+      "disciplina": "Matemática",
+      "professor": {
+        "nome": "Prof. João Silva",
+        "matricula": "12345"
+      },
+      "turma": "A",
+      "data": "2024-07-19",
+      "questoes": [
+        {
+          "enunciado": "Qual é a fórmula da área de um triângulo?",
+          "pontuacao": "1 ponto",
+          "alternativas": [
+            {
+              "texto": "A) Base x Altura",
+              "correta": "sim"
+            },
+            {
+              "texto": "B) Lado x Lado",
+              "correta": "nao"
+            },
+            {
+              "texto": "C) Diagonal x Largura",
+              "correta": "nao"
+            },
+            {
+              "texto": "D) Raio x Raio",
+              "correta": "nao"
+            }
+          ]
+        },
+        {
+          "enunciado": "Qual é o resultado de 2 + 2?",
+          "pontuacao": "1 ponto",
+          "alternativas": [
+            {
+              "texto": "A) 4",
+              "correta": "sim"
+            },
+            {
+              "texto": "B) 3",
+              "correta": "nao"
+            },
+            {
+              "texto": "C) 5",
+              "correta": "nao"
+            },
+            {
+              "texto": "D) 6",
+              "correta": "nao"
+            }
+          ]
+        },
+        {
+          "enunciado": "Quanto é a raiz quadrada de 16?",
+          "pontuacao": "1 ponto",
+          "alternativas": [
+            {
+              "texto": "A) 4",
+              "correta": "sim"
+            },
+            {
+              "texto": "B) 5",
+              "correta": "nao"
+            },
+            {
+              "texto": "C) 6",
+              "correta": "nao"
+            },
+            {
+              "texto": "D) 7",
+              "correta": "nao"
+            }
+          ]
+        },
+        {
+          "enunciado": "Quem é o autor da obra 'Dom Quixote'?",
+          "pontuacao": "1 ponto",
+          "alternativas": [
+            {
+              "texto": "A) Miguel de Cervantes",
+              "correta": "sim"
+            },
+            {
+              "texto": "B) William Shakespeare",
+              "correta": "nao"
+            },
+            {
+              "texto": "C) Victor Hugo",
+              "correta": "nao"
+            },
+            {
+              "texto": "D) Johann Wolfgang von Goethe",
+              "correta": "nao"
+            }
+          ]
+        },
+        {
+          "enunciado": "Qual é o maior planeta do Sistema Solar?",
+          "pontuacao": "1 ponto",
+          "alternativas": [
+            {
+              "texto": "A) Júpiter",
+              "correta": "sim"
+            },
+            {
+              "texto": "B) Marte",
+              "correta": "nao"
+            },
+            {
+              "texto": "C) Terra",
+              "correta": "nao"
+            },
+            {
+              "texto": "D) Vênus",
+              "correta": "nao"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

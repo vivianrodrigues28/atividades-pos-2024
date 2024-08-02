@@ -1,0 +1,102 @@
+{
+    "imobiliaria": {
+      "imoveis": [
+        {
+          "descricao": "Casa espaçosa com jardim",
+          "proprietario": {
+            "nome": "Fulano de Tal",
+            "email": "fulano@example.com",
+            "telefone": "123456789"
+          },
+          "endereco": {
+            "rua": "Rua das Flores",
+            "bairro": "Jardim Botânico",
+            "cidade": "Curitiba",
+            "numero": "100"
+          },
+          "caracteristicas": {
+            "tamanho": "300 m²",
+            "numQuartos": "4",
+            "numBanheiros": "3"
+          },
+          "valor": "R$ 500.000,00"
+        },
+        {
+          "descricao": "Apartamento moderno no centro",
+          "proprietario": {
+            "nome": "Ciclano Silva",
+            "telefone": "987654321"
+          },
+          "endereco": {
+            "rua": "Rua Principal",
+            "bairro": "Centro",
+            "cidade": "São Paulo",
+            "numero": "502"
+          },
+          "caracteristicas": {
+            "tamanho": "120 m²",
+            "numQuartos": "3",
+            "numBanheiros": "2"
+          },
+          "valor": "R$ 350.000,00"
+        },
+        {
+          "descricao": "Sobrado com piscina",
+          "proprietario": {
+            "nome": "Beltrano Souza",
+            "telefone": "987654321"
+          },
+          "endereco": {
+            "rua": "Av. Central",
+            "bairro": "Centro",
+            "cidade": "Porto Alegre"
+          },
+          "caracteristicas": {
+            "tamanho": "250 m²",
+            "numQuartos": "5",
+            "numBanheiros": "4"
+          },
+          "valor": "R$ 700.000,00"
+        },
+        {
+          "descricao": "Kitnet próximo à universidade",
+          "proprietario": {
+            "nome": "Maria Oliveira",
+            "email": "maria@example.com",
+            "telefone": "876543210"
+          },
+          "endereco": {
+            "rua": "Rua da Universidade",
+            "bairro": "Universitário",
+            "cidade": "Recife",
+            "numero": "30"
+          },
+          "caracteristicas": {
+            "tamanho": "40 m²",
+            "numQuartos": "1",
+            "numBanheiros": "1"
+          },
+          "valor": "R$ 120.000,00"
+        },
+        {
+          "descricao": "Casa térrea com amplo quintal",
+          "proprietario": {
+            "nome": "José da Silva",
+            "telefone": "765432109"
+          },
+          "endereco": {
+            "rua": "Rua dos Fundos",
+            "bairro": "Vila Nova",
+            "cidade": "Salvador"
+          },
+          "caracteristicas": {
+            "tamanho": "200 m²",
+            "numQuartos": "3",
+            "numBanheiros": "2"
+          },
+          "valor": "R$ 300.000,00"
+        }
+      ]
+    }
+  }
+  
