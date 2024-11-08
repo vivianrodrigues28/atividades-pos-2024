@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #007BFF;
+  }
+  
+  #users-container {
+    margin-bottom: 20px;
+  }
+  
+  .user {
+    background-color: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  #todos-container {
+    margin-top: 20px;
+  }
+  
+  .todo {
+    background-color: #fafafa;
+    padding: 10px;
+    margin: 5px 0;
+    border-left: 5px solid #007BFF;
+  }
